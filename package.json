@@ -1,0 +1,39 @@
+{
+    "name": "pwa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start:dev": "",
+      "start": "",
+      "server": "",
+      "build": "",
+      "install": "",
+      "client": ""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "babel": "^6.23.0",
+      "express": "^4.18.2",
+      "if-env": "^1.0.4"
+    },
+    "devDependencies": {
+      "concurrently": "^5.3.0",
+      "css-loader": "^6.7.3",
+      "nodemon": "^2.0.20",
+      "webpack": "^5.75.0",
+      "webpack-dev-server": "^4.11.1",
+      "webpack-pwa-manifest": "^4.3.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Tsedi28/Text-Editor.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Tsedi28/Text-Editor/issues"
+    },
+    "homepage": "https://github.com/Tsedi28/Text-Editor#readme"
+
+}
